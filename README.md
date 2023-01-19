@@ -16,6 +16,8 @@ Construcción de un proyecto en PHP con la implementación del framework de Lara
 
 * Carga de datos con Seeders.
 
+* Base de datos *.sql en el ROOT del proyecto.
+
 ## Licencia
 
 The MIT License (MIT)
