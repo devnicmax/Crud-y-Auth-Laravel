@@ -14,6 +14,8 @@ Construcción de un proyecto en PHP con la implementación del framework de Lara
 
 * Frontend con implementación de Bootstrap y Blade.
 
+* Carga de datos con Seeders.
+
 ## Licencia
 
 The MIT License (MIT)
