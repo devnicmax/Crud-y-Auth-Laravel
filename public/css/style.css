@@ -1,0 +1,56 @@
+.formContainer{
+    margin-top: 40px !important;
+}
+
+.form-control {
+    border-color: #a0bf06 !important;
+}
+
+.logo {
+    margin-bottom: 30px !important;
+}
+
+.logo-mini {
+    width: 150px !important;
+    height: auto !important;
+}
+
+.button {
+    background-color: #a0bf06 !important;
+}
+
+.register {
+    text-align: center !important;
+    margin-top: 10px !important;
+}
+
+.nav-link {
+    background-color: #a0bf06 !important;
+    border-radius: 10px;
+    text-align: center !important;
+}
+
+.welcome{
+   font-weight:400 !important;
+   background-color: #a0bf06 !important;
+   padding: 4px;
+}
+
+
+
+h1 {
+    font-size: 30px !important;
+}
+
+h1,
+.table,
+.createform {
+    margin-top: 25px !important;
+}
+
+
+
+
+
+
+
